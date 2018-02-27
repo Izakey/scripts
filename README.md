@@ -1,2 +1,2 @@
 # scripts
-Some Handy Scripts
+Download Scripts Into Your Directory Containing Fineract CN Repositories And Run `bash scriptName.sh yourgithubHandle` 
